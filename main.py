@@ -1,4 +1,4 @@
-#This is from 100days of python course 
+#This is from 100days of python course by Dr.Yu
 
 # 🚨 Don't change the code below 👇
 year = int(input("Which year do you want to check? "))
